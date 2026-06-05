@@ -78,7 +78,7 @@ export default function HistoryView({ onBack }: Props) {
           <div>
             <p className="mb-1 text-base font-semibold text-slate-200">No result found</p>
             <p className="text-sm">
-              We couldn't find a saved result for <strong className="text-slate-300">{email}</strong>.
+              We couldn&apos;t find a saved result for <strong className="text-slate-300">{email}</strong>.
             </p>
           </div>
         </div>
